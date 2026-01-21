@@ -17,11 +17,11 @@ tarea1-js/
 │   │   └── styles.css  # Estilos CSS
 │   ├── counter.js      # Contador básico
 │   ├── index.html      # Página índice del src
-│   └── ejercicio1/     # Ejercicio 1: [Descripción]
-│   └── ejercicio2/     # Ejercicio 2: [Descripción]
-│   └── ejercicio3/     # Ejercicio 3: [Descripción]
-│   └── ejercicio4/     # Ejercicio 4: [Descripción]
-│   └── ejercicio5/     # Ejercicio 5: [Descripción]
+│   └── ejercicio1/     # Ejercicio 1: [Cambiar color de fondo]
+│   └── ejercicio2/     # Ejercicio 2: Contador de clics
+│   └── ejercicio3/     # Ejercicio 3: Lista interactiva
+│   └── ejercicio4/     # Ejercicio 4: Filtro de busqueda
+│   └── ejercicio5/     # Ejercicio 5: Calculadora sencilla
 │   └── ejercicio6/     # Ejercicio 6: Temporizador
 │   └── ejercicio7/     # Ejercicio 7: Generador de contraseñas
 │   └── ejercicio8/     # Ejercicio 8: Contador de caracteres y palabras
