@@ -2,6 +2,9 @@
 
 Este repositorio contiene una serie de ejercicios de JavaScript que cubren conceptos fundamentales de programación web interactiva.
 
+## Descripción
+Repositorio para la entrega de la primera tarea del Módulo de Javascript del máster en desarrollo Fullstack de Conquer Blocks.
+
 ## Estructura del Proyecto
 
 ```
@@ -64,4 +67,4 @@ tarea1-js/
 
 ## Autor
 
-Desarrollado como parte de la Tarea 1 de JavaScript.
+Desarrollado como parte de la Tarea 1 de JavaScript del máster en desarrollo Fullstack de Conquer Blocks.
