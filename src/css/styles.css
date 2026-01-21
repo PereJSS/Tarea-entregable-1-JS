@@ -20,6 +20,7 @@ h1 {
     text-align: center;
     color: #333333;
     font-family: 'Arial', sans-serif;
+    font-size: 18px;
 }
 
 /* ejercicio2 styles */
@@ -58,11 +59,12 @@ li{
     color: white;
     border: none;
     border-radius: 5px;
-    padding: 8px 12px;
-    font-size: 14px;
+    padding: 5px 8px;
+    font-size: 12px;
     cursor: pointer;
     z-index: 1000;
     transition: background-color 0.3s ease;
+    margin-right: 20px;
 }
 
 #btn-volver:hover {
